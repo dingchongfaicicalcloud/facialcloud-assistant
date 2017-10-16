@@ -1,8 +1,9 @@
 {
     "name":"facialcloud-assistant",
-    "version":"1.0.1",
+    "version":"1.0.0",
     "downurl":"http://facialcloud.com/asstant.html",
     "detail":[
         "热更新版本"
     ]
 }
+
